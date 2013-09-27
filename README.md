@@ -16,7 +16,6 @@ It's the button on the left:
 ## Installation
 
 Download the zip, extract, and put the 'Open in Chocolat' in your Applications folder. Then Command-drag it to your Finder toolbar.
-
 Also included in the zip is the source applescript file that was compiled to build the app
 
 ## Thanks / Credits

@@ -11,7 +11,7 @@ It's the button on the left:
 
 ![screenshot](https://dl.dropboxusercontent.com/u/366007/Cargo/choc-screenshot.png)
 
-(the miniapp on the right is [Go2Shell](http://zipzapmac.com/Go2Shell). It opens the current folder in the terminal.)
+(the other app on the right is [Go2Shell](http://zipzapmac.com/Go2Shell). It opens the current folder in the terminal.)
 
 ## Installation
 

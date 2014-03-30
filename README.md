@@ -9,7 +9,7 @@ I'm a huge fan of the [Chocolat text editor](http://chocolatapp.com). 'Open in C
 
 It's the button on the left:
 
-![screenshot](https://dl.dropboxusercontent.com/u/366007/Cargo/choc-screenshot.png)
+![screenshot](https://raw.githubusercontent.com/pketh/open-in-chocolat/master/screenshot.png)
 
 (the other app on the right is [Go2Shell](http://zipzapmac.com/Go2Shell). It opens the current folder in the terminal.)
 

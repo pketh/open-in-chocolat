@@ -7,11 +7,7 @@ I'm a huge fan of the [Chocolat text editor](http://chocolatapp.com). 'Open in C
 3. With no files selected, clicking the button opens all the files in the folder associated with the window.
 4. Dragging files or folders to the button opens the dragged items.
 
-It's the button on the left:
-
-![screenshot](https://raw.githubusercontent.com/pketh/open-in-chocolat/master/screenshot.png)
-
-(the other app on the right is [Go2Shell](http://zipzapmac.com/Go2Shell). It opens the current folder in the terminal.)
+<img src="screenshot.png" width="477" height="101">
 
 ## Installation
 

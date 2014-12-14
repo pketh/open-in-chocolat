@@ -7,7 +7,7 @@ I'm a huge fan of the [Chocolat text editor](http://chocolatapp.com). 'Open in C
 3. With no files selected, clicking the button opens all the files in the folder associated with the window.
 4. Dragging files or folders to the button opens the dragged items.
 
-<img src="screenshot.png" width="477" height="101">
+<img src="screenshot.png" width=“533” height=“105”>
 
 ## Installation
 

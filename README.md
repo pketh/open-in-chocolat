@@ -16,6 +16,6 @@ Also included in the zip is the source applescript file that was compiled to bui
 
 ## Thanks / Credits
 
-The code for this was simply adapted from Dr. Drang's [Open in BBEdit](http://www.leancrew.com/all-this/2012/09/bbedit-finder-toolbar-icon/) version. The icon was adapted from Chocolat itself.
+The code for this was simply adapted from Dr. Drang's [Open in BBEdit](http://www.leancrew.com/all-this/2012/09/bbedit-finder-toolbar-icon/) version. 
 
 **Hope you find this as useful as I do!**

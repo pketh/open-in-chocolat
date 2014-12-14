@@ -1,4 +1,4 @@
-# Open in Chocolat
+# Open in Chocolat ☕️
 
 I'm a huge fan of the [Chocolat text editor](http://chocolatapp.com). 'Open in Chocolat' is a miniapp that lives in your Finder toolbar and works in four ways:
 
